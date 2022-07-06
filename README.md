@@ -1,4 +1,4 @@
-# U-Blox_C94-M8P
+# U-Blox C94-M8P GPS Kit 
 Usage example
 
 # Enlace
